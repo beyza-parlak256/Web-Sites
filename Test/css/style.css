@@ -1,0 +1,12 @@
+.body{
+    margin:0 
+    auto;text-align:center; 
+    width:960px;
+}
+.hr{
+    color:darkblue;
+}
+.card{
+    float: right;
+}
+
